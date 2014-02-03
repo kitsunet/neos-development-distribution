@@ -8,6 +8,16 @@
 #                                                                        #
 
 ##
+# Package subroutes
+
+-
+  name: 'Node Type Editor'
+  uriPattern: 'neos/backend/flowpack/nodetypeeditor/<FlowpackNeosNodeTypeEditorSubroutes>'
+  subRoutes:
+    'FlowpackNeosNodeTypeEditorSubroutes':
+      package: 'Flowpack.Neos.NodeTypeEditor'
+
+##
 # TYPO3 Neos subroutes
 
 -
