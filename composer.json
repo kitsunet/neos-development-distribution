@@ -31,7 +31,8 @@
         "mikey179/vfsstream": "~1.6",
         "phpunit/phpunit": "~4.8 || ~5.2.0",
         "symfony/css-selector": "~2.0",
-        "flowpack/behat": "dev-master"
+        "flowpack/behat": "dev-master",
+        "codeception/codeception": "^2.1"
     },
     "suggest": {
         "ext-pdo_sqlite": "For running functional tests out-of-the-box this is required"
